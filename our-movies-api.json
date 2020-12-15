@@ -1,0 +1,37 @@
+[
+  {
+    "id": "rec6d6T3q5EBIdCfD",
+    "name": "Joker",
+    "info": "Arthur Fleck (Phoenix) vive en Gotham con su madre, y su única motivación en la vida es hacer reír a la gente. Actúa haciendo de payaso en pequeños trabajos, pero tiene problemas mentales que hacen que la gente le vea como un bicho raro. Su gran sueño es actuar como cómico delante del público, pero una serie de trágicos acontecimientos le hará ir incrementando su ira contra una sociedad que le ignora.",
+    "image": "https://pics.filmaffinity.com/joker-176855244-large.jpg",
+    "price": "6.75"
+  },
+  {
+    "id": "recIwxrvU9HfJR3B4",
+    "name": "Avengers: Endgame",
+    "info": "Después de los eventos devastadores de 'Avengers: Infinity War', el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar deshacer sus acciones y restaurar el orden en el universo de una vez por todas, sin importar cuáles son las consecuencias... Cuarta y última entrega de la saga Vengadores.",
+    "image": "https://pics.filmaffinity.com/avengers_endgame-351952617-large.jpg",
+    "price": "18.35"
+  },
+  {
+    "id": "recJLWcHScdUtI3ny",
+    "name": "Gisaengchung",
+    "info": "Tanto Gi Taek (Song Kang-ho) como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo (Choi Woo-sik), empieza a dar clases particulares en casa de Park (Lee Seon-gyun), las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+    "image": "https://pics.filmaffinity.com/gisaengchung-970443693-large.jpg",
+    "price": "11.99"
+  },
+  {
+    "id": "recK2AOoVhIHPLUwn",
+    "name": "Once Upon a Time... in Hollywood",
+    "info": "Hollywood, años 60. La estrella de un western televisivo, Rick Dalton (DiCaprio), intenta amoldarse a los cambios del medio al mismo tiempo que su doble (Pitt). La vida de Dalton está ligada completamente a Hollywood, y es vecino de la joven y prometedora actriz y modelo Sharon Tate (Robbie) que acaba de casarse con el prestigioso director Roman Polanski.",
+    "image": "https://pics.filmaffinity.com/once_upon_a_time_in_hollywood-203690505-large.jpg",
+    "price": "9.24"
+  },
+  {
+    "id": "receAEzz86KzW2gvH",
+    "name": "Toy Story 4",
+    "info": "Woody siempre ha tenido claro cuál es su labor en el mundo y su prioridad: cuidar a su dueño, ya sea Andy o Bonnie. Pero cuando Bonnie añade a Forky, un nuevo juguete de fabricación propia, a su habitación, arranca una nueva aventura que servirá para que los viejos y nuevos amigos le enseñen a Woody lo grande que puede ser el mundo para un juguete.",
+    "image": "https://pics.filmaffinity.com/toy_story_4-419389796-large.jpg",
+    "price": "17.87"
+  }
+]
