@@ -1,0 +1,39 @@
+[
+  {
+    "id": "recAGJfiU4CeaV0HL",
+    "order": 3,
+    "title": "Asistente contable",
+    "duties": [
+      "Ingresar de nuevos trabajadores",
+      "Registrar y calcular comisiones y anticipos",
+      "Girar cheques",
+      "Realizar y enviar liquidaciones de sueldo",
+      "Emitir cheques de caja chica",
+      "Atender caja chica",
+      "Digitar facturas de stock, compras y taller en software",
+      "Archivar facturas"
+    ],
+    "company": "Automotora Forcenter S.A."
+  },
+  {
+    "id": "recIL6mJNfWObonls",
+    "order": 2,
+    "title": "Desarrollador web",
+    "duties": ["Desarrollar de una aplicación de Android con Phonegap"],
+    "company": "Paradigma Ltda"
+  },
+  {
+    "id": "rec61x18GVY99hQq5",
+    "order": 1,
+    "title": "Desarrollador web",
+    "duties": [
+      "Elaboración de sitios web",
+      "Mejorar los sitios web en producción",
+      "Actualizar documentos en plataformas web",
+      "Realizar soporte web",
+      "Realizar soporte y actualización de base de datos",
+      "Crear, eliminar y actualizar cuentas de usuarios"
+    ],
+    "company": "Forsend S.A."
+  }
+]
