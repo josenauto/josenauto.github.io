@@ -3,6 +3,7 @@
     "id": "recAGJfiU4CeaV0HL",
     "order": 3,
     "title": "Asistente contable",
+    "dates": "Julio 2011 - Enero 2013",
     "duties": [
       "Ingresar de nuevos trabajadores",
       "Registrar y calcular comisiones y anticipos",
@@ -19,6 +20,7 @@
     "id": "recIL6mJNfWObonls",
     "order": 2,
     "title": "Desarrollador web",
+    "dates": "Junio 2014 – Septiembre 2014",
     "duties": ["Desarrollar de una aplicación de Android con Phonegap"],
     "company": "Paradigma Ltda"
   },
@@ -26,6 +28,7 @@
     "id": "rec61x18GVY99hQq5",
     "order": 1,
     "title": "Desarrollador web",
+    "dates": "Abril 2016 – Diciembre 2018",
     "duties": [
       "Elaboración de sitios web",
       "Mejorar los sitios web en producción",
